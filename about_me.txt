@@ -1,0 +1,10 @@
+Add, commit, and push a new file about_me.md that contains these details:
+
+Your name and what you prefer to be called (if it's different)
+Mohammed Bukhamsin, prefer to be called Moe
+Your major and year of study:
+ECE major, minor CS & MTH
+The answer to this question: have you signed up for Piazza?
+Yes I have.
+A description of the most interesting fact about you or the most unique experience you've had. Include only what you can think of and write down in two minutes, maximum.
+I have interned this summer in Oliver Wyman which is a consulting company. They changed my horizon about business world and the way to interprate business relations. 
