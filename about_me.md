@@ -1,10 +1,17 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: Mohammed Bukhamsin
 
-ONID ID: `ONID_ID`
+ONID ID: Bukhammo 
 
+* Your name and what you prefer to be called (if it's different): I would like to be called "Moe" as a short.
+  * Your major and year of study: I am studying ECE moniring in MTH & CS
+  * The answer to this question: have you signed up for Piazza?: Yes I have. 
+  * A description of the most interesting fact about you or the most unique experience you've had.  Include only what you can think of and write down in two minutes, maximum.
+  I have interned this summer in a consulting company called Oliver Wyman. This was my first internship ever. It opened my horizon to the corporate world and redefined Business relations to myself. I would defently consider it the most unique experience I had in my life. 
+  
+  
 This assignment is intended to get you up and running with some of the tools we'll be using in this course.  It should be very straightforward.  It has two parts.
 
 ## 1. Sign up for Piazza
